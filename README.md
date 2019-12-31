@@ -1,2 +1,2 @@
 # DoublySortedDB
-Sorted Databased based on a Doubly Linked List
+Sorted Database based on a Doubly Linked List
